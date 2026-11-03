@@ -1,0 +1,9 @@
+Package: com.saya.statusbarhide
+Name: StatusBarHide
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Sembunyikan status bar di aplikasi pilihan
+Maintainer: Saya
+Author: Saya
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
