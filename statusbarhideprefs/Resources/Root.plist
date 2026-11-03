@@ -26,6 +26,18 @@
 			<key>PostNotification</key>
 			<string>com.saya.statusbarhide/prefschanged</string>
 		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Pilih Aplikasi</string>
+			<key>action</key>
+			<string>openApps</string>
+		</dict>
 	</array>
 	<key>title</key>
 	<string>Status Bar Hide</string>
